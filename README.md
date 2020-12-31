@@ -1,0 +1,2 @@
+# swk-cgn
+Softwerkskammer Köln
